@@ -1,3 +1,4 @@
+// for user analytics line chart
 export const userData = [
 	{
 		name: "Jan",
@@ -49,6 +50,7 @@ export const userData = [
 	},
 ];
 
+// sales data
 export const productData = [
 	{
 		name: "Jan",
